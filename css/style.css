@@ -1,0 +1,59 @@
+.header{
+	background-color: lightgray;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.img-slider{
+	text-align: center;
+	border: dashed;
+}
+
+.home-slider{
+	text-align: center;
+	border: dotted;
+}
+
+.about-slider{
+	color: whitesmoke;
+	background-color: darkblue;
+	text-align: center;
+}
+
+.contact-page{
+	text-align: center;
+}
+
+.menu-bar{
+	margin: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.menu-home{
+	margin right: 30px;
+}
+
+.social{
+	text-align: center;
+}
+.socialh1{
+	border: dashed;
+}
+.hhp{
+	text-decoration: none;
+	margin-right: 30px;
+
+}
+.ahp{
+	text-decoration: none;
+	margin-right: 30px;
+}
+.chp{
+	text-decoration: none;
+	margin-right: 30px;
+}
+.cvp{
+	text-decoration: none;
+	margin-right: 30px;
+}
